@@ -47,7 +47,7 @@ This project presents a **Sales Analysis Dashboard** that allows users to visual
 
 Here are some examples of what the dashboard looks like:
 
-![Dashboard Image](C:\Users\anadi\Downloads\Screenshot 2025-01-29 062605.png)
+![Dashboard Image](https://github.com/Anadi0302/Sales-Analysis/blob/main/Screenshot%202025-01-29%20062605.png?raw=true)
 
 *Note: Upload a screenshot of your Tableau dashboard here to show a preview of your work.*
 
